@@ -1,0 +1,25 @@
+body { 
+      background-color: cornsilk;
+   }
+
+hr {
+     border-style: none;
+     height: 0px;
+     width: 10%;
+     border-top-style: dotted;
+     border-color: grey;
+     border-width: 5px;
+   }
+
+img {
+     height: 75px;
+   }
+
+
+h3 {
+  color: rgb(228, 146, 118);
+}
+
+h1 {
+  color: #EA5C2B;
+}
